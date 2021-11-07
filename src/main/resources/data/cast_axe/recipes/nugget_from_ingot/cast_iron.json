@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "cast_axe",
+    "ingredients": [
+      {
+        "item": "cast_axe:cast_iron_ingot"
+      }
+    ],
+    "result": {
+      "item": "cast_axe:cast_iron_nugget",
+      "count": 9
+    }
+  }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cast_axe",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cast_axe:cast_iron_ingot"
+    }
+  },
+  "result": {
+    "item": "cast_axe:cast_iron_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "emendatusenigmatica",
+  "ingredients": [
+    {
+      "item": "cast_axe:cast_iron_block"
+    }
+  ],
+  "result": {
+    "item": "cast_axe:cast_iron_ingot",
+    "count": 9
+  }
+}
