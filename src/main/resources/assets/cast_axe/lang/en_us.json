@@ -1,0 +1,13 @@
+{
+    "item.cast_axe.cast_iron_axe": "Cast Iron Axe",
+    "item.cast_axe.cast_iron_pickaxe": "Cast Iron Pickaxe",
+    "item.cast_axe.cast_iron_shovel": "Cast Iron Shovel",
+    "item.cast_axe.cast_iron_ingot": "Cast Iron Ingot",
+    "item.cast_axe.cast_iron_dust": "Cast Iron Dust",
+    "item.cast_axe.cast_iron_plate": "Cast Iron Plate",
+    "item.cast_axe.cast_iron_gear": "Cast Iron Gear",
+    "item.cast_axe.cast_iron_nugget": "Cast Iron Nugget",
+    "item.cast_axe.cast_iron_rod": "Cast Iron Rod",
+    "block.cast_axe.cast_iron_block": "Cast Iron Block",
+    "itemGroup.cast_axe": "Cast Axe"
+}

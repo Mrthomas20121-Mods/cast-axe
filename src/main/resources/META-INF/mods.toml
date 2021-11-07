@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+issueTrackerURL="https://github.com/Mrthomas20121/Lemegeton/issues"
+
+[[mods]]
+modId="cast_axe"
+version="${version}"
+displayName="Cast Axe"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/cast_axe"
+#logoFile="tinkers_reforged_logo.png"
+authors="Mrthomas20121"
+description='''
+Add a Special Axe to farm planks.
+'''
+
+[[dependencies.cast_axe]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cast_axe]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_range}"
+    ordering="NONE"
+    side="BOTH"
